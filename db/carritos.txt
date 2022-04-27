@@ -1,0 +1,85 @@
+[
+  {
+    "id": 1,
+    "timestamp": "fecha carrito",
+    "productos": [
+      {
+        "id": 9,
+        "timestamp": "27/04/2022 11:32:40",
+        "nombre": "pruaaampo",
+        "descripcion": "ES una descripcion",
+        "codigo": "E025",
+        "thumbnail": "infaaasdaaaaaeleee",
+        "precio": "34222002",
+        "stock": 305
+      },
+      {
+        "id": 8,
+        "timestamp": "27/04/2022 11:28:21",
+        "nombre": "pruebade TIempo",
+        "descripcion": "ES una descripcion",
+        "codigo": "E024",
+        "thumbnail": "infaaasdaaaaaeleee",
+        "precio": "34222002",
+        "stock": 35
+      },
+      {
+        "nombre": "TARta",
+        "precio": "400",
+        "thumbnail": "/Muniece",
+        "id": 1
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "timestamp": "fecha carrito",
+    "productos": [
+      {
+        "id": 7,
+        "timestamp": "27/04/2022 11:28:21",
+        "nombre": "pruebade TIempo",
+        "descripcion": "ES una descripcion",
+        "codigo": "0124",
+        "thumbnail": "infaaasdaaaaaeleee",
+        "precio": "34222002",
+        "stock": 35
+      },
+      {
+        "id": 8,
+        "timestamp": "27/04/2022 11:28:21",
+        "nombre": "pruebade TIempo",
+        "descripcion": "ES una descripcion",
+        "codigo": "E024",
+        "thumbnail": "infaaasdaaaaaeleee",
+        "precio": "34222002",
+        "stock": 35
+      },
+      {
+        "nombre": "Raaaicota",
+        "precio": "3422200",
+        "thumbnail": "infaaaaaaeleee",
+        "id": 5,
+        "timestamp": {
+          "dateTime": "27/04/2022 11:20:42"
+        }
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "timestamp": "27/04/2022 17:38:38",
+    "productos": [
+      {
+        "id": 9,
+        "timestamp": "27/04/2022 11:32:40",
+        "nombre": "pruaaampo",
+        "descripcion": "ES una descripcion",
+        "codigo": "E026",
+        "thumbnail": "infaaasdaaaaaeleee",
+        "precio": "34222002",
+        "stock": 305
+      }
+    ]
+  }
+]
